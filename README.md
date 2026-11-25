@@ -20,7 +20,7 @@ Il présente mon profil, mes articles de blog et un formulaire de contact.
 - GitHub Pages pour la mise en ligne
 
 ## Lien du site en ligne
-https://waaliyouadjimou31-svg.github.io/ipnet-it130/
+https://waaliyouadjimou31-svg.github.io/ipnet-it130.git
 
 ## Comment voir le projet ?
 1. Ouvrir le lien ci-dessus dans le navigateur
